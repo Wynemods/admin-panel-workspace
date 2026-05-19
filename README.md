@@ -5,8 +5,8 @@ This folder is the **workspace root** for the admin UI. Application source lives
 ## Clone (fresh)
 
 ```bash
-git clone --recurse-submodules https://github.com/Wynemods/ADMIN-PANEL-WORKSPACE.git
-cd Admin-Panel-WORKSPACE   # or your folder name
+git clone --recurse-submodules https://github.com/Wynemods/admin-panel-workspace.git
+cd admin-panel-workspace   # or your folder name
 cd frontend
 npm install
 cp .env.example .env
